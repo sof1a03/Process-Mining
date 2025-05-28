@@ -1,0 +1,5 @@
+The DFG screenshots in this folder are all generated from Disco. 
+The reassignments data corresponds to the “Number of Reassignments” column in the original dataset. 
+All DFG from Disco Map function, the configuration is set to paths = 0 and activities = 100% with corresponding filter. 
+The applied filter selects cases based on the corresponding number of reassignments, as categorized using the data_process_v1.ipynb. 
+The resulting CSV files from data_process_v1.ipynb. were then uploaded to Disco for analysis.
